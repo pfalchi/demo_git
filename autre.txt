@@ -1,3 +1,5 @@
 voici un fichier txt
 
 avec toutes les corrections depuis gitHub
+
+mais aussi depuis ma machine locale
