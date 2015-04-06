@@ -1,1 +1,3 @@
-voici un fihier txt
+voici un fichier txt
+
+avec toutes les corrections depuis gitHub
